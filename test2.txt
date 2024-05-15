@@ -1,2 +1,2 @@
 This is another test file.
-Anther line has been added now.
+Another line has been added now.
