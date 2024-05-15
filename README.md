@@ -20,3 +20,5 @@ This is another paragraph. *This part is going to be italics.* **This part is go
 # Link:
 
 [This is a Website](https://test5.txt)
+
+![Markdown](https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg)
