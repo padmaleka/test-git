@@ -1,7 +1,16 @@
-#Headings:
+# Headings:
 # First Heading
 ## Second Heading
 ### Third Heading
 #### Fourth Heading
 ##### Fifth Heading
 ###### Sixth Heading
+
+
+---
+
+# Paragraph
+
+Any text written like this is a paragraph.
+
+This is another paragraph. *This part is going to be italics.* **This part is going to be in Bold.**
